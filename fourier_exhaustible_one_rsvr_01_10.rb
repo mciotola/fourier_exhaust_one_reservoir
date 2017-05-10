@@ -5,7 +5,7 @@ puts "# FOURIER HEAT CONDUCTION LAW--ONE EXHAUSTIBLE RESERVOIR  version 01.10   
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Copyright 2011-17 by Mark Ciotola; available for use under GNU license      #"
-puts "# Created on 15 June 2014. Last revised on 9 May 2017                         #"
+puts "# Created on 15 June 2014. Last revised on 10 May 2017                         #"
 puts "#_____________________________________________________________________________#"
 puts "#                                                                             #"
 puts "# Description:                                                                #"
@@ -23,6 +23,10 @@ puts "\n\n"
       #                                 conductor material                          #
       #                                 conductor area                              #
 	  #                                 conductor length                            #
+	  #                                 hot reservoir thermal energy                #
+	  #                                 hot reservoir volume                        #
+	  #                                 hot reservoir specific heat                 #
+	  #                                 cold reservoir temperature                  #
       #                                                                             #
       # Website: http://www.heatsuite.com                                           #
       # Source site: https://github.com/mciotola/fourier_exhaust_one_reservoir      #
