@@ -44,9 +44,8 @@ can be names by the user, which can be useful for multiple runs. The default fil
 
 ## Troubleshooting
 
-If the program does not run, make sure that at least Ruby version 1.9.2 is installed on your computer.
-
-Make that you are in the correct directory.
+* If the program does not run, make sure that at least Ruby version 2.2.4+ is installed on your computer.
+* Make that you are in the correct directory.
 
 If you adjusted the parameters, make sure all are positive and have decimal point. Also make sure that you saved the file in a pure text format and that the filename ends in ".rb"
 
